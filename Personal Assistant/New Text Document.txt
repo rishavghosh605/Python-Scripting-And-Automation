@@ -1,0 +1,16 @@
+1> pip install wolframalpha api
+2>	MS Speech Platform v11.0 Download - http://bit.ly/2QqqXey 
+	MS HD Voices Download - http://bit.ly/2s7LquW
+	For those of you who prefer reading - http://bit.ly/2VxXPG3
+
+3>	search regedit
+4> open regedit-the registry editor
+5> Goto HK_LOCAL_MCHINE\SOFTWARE\Microsoft\Speech Server\Voices\Tokens
+6> right click and press export
+7> open the file with Notepad
+8> press ctrl+H
+9> replace \Speech Server\v11.0\ with \Speech\
+10> goto Control Panel\Ease of Access\Ease of Access Center
+11> Star narrator choose Voicee and testnew voices
+
+Search how to install more voices to windows speech

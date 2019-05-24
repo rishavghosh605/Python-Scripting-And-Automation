@@ -1,0 +1,13 @@
+APP NAME: Personal Assistant
+
+APPID: 7QJ4YH-T5RP7VR292
+
+USAGE TYPE: Personal/Non-commercial Only
+
+NOTE:
+
+An AppID must be supplied in all calls to the Wolfram|Alpha API. If you have multiple applications using the Wolfram|Alpha API, each must have its own AppID.
+
+Read the API Documentation for more information.
+
+The maximum numbers of Apps is 20 by default. Please contact us for details.
